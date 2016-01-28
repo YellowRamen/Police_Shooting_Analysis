@@ -1,0 +1,570 @@
+,State,Gender,Age,Race,Armed,Priors,Fired,Objectivity,Polarity
+0,Texas,1.0,34.0,Black,1,1,-1,0.4,-0.2
+1,Florida,1.0,27.0,Latino,1,1,-1,0.0,0.0
+2,South Carolina,1.0,21.0,Black,1,-1,-1,0.4,-0.2
+3,North Carolina,1.0,19.0,Black,1,-1,-1,0.0,-0.2
+4,Idaho,1.0,26.0,White,-1,-1,-1,0.4,-0.2
+5,Louisiana,1.0,37.0,Black,-1,-1,-1,0.0,0.0
+6,New Mexico,0.0,35.0,White,0,1,-1,0.0,-0.1
+7,California,0.0,61.0,Native American,1,-1,1,0.1,-0.1
+8,New York,0.0,21.0,White,0,1,1,0.0,0.0
+9,South Carolina,1.0,24.0,White,-1,-1,-1,0.0666666666667,0.0
+10,Texas,1.0,37.0,White,1,-1,-1,0.0,0.0
+11,New Jersey,1.0,28.0,White,1,-1,-1,0.0,0.0
+12,Maryland,1.0,27.0,White,0,0,0,,
+13,Massachusetts,1.0,27.0,White,1,-1,-1,0.0,0.0
+14,Florida,1.0,23.0,Black,1,1,1,0.275,-0.3
+15,California,1.0,13.0,Latino,1,-1,-1,0.0,0.0
+16,New Mexico,1.0,37.0,White,1,-1,0,0.0,-0.2
+17,Pennsylvania,1.0,31.0,White,1,-1,-1,0.0,-0.1
+18,Missouri,1.0,40.0,Black,-1,-1,1,0.0,0.0
+19,California,1.0,19.0,White,1,1,-1,,
+20,Arizona,1.0,36.0,Latino,1,-1,1,0.0,-0.2
+21,Maryland,1.0,34.0,White,1,1,1,0.0,0.0
+22,Washington,1.0,21.0,White,1,-1,1,0.333333333333,0.0
+23,Kentucky,1.0,59.0,White,-1,-1,1,0.0,-0.1
+24,California,0.0,31.0,White,1,-1,-1,0.0,0.0
+25,Texas,1.0,70.0,White,0,-1,-1,0.0,0.0
+26,Arizona,1.0,43.0,White,1,-1,1,0.0,0.0
+27,Florida,1.0,50.0,White,1,1,1,0.577272727273,0.268181818182
+28,South Carolina,1.0,31.0,White,-1,-1,-1,0.1,0.0
+29,Arkansas,1.0,34.0,White,1,1,0,0.05,0.05
+30,North Carolina,1.0,30.0,Black,-1,-1,-1,0.4,-0.2
+31,Wisconsin,1.0,43.0,White,1,-1,1,0.4,-0.45
+32,Oklahoma,1.0,24.0,Black,-1,-1,1,0.0,0.0
+33,Mississippi,1.0,26.0,Black,1,-1,-1,0.0,-0.2
+34,Texas,1.0,19.0,White,1,-1,1,0.0,0.0
+35,California,1.0,33.0,White,1,-1,-1,,
+36,Alabama,1.0,26.0,Black,-1,-1,-1,0.0,0.0
+37,Kentucky,1.0,30.0,Black,1,-1,1,1.0,-0.6
+38,California,1.0,23.0,Latino,1,-1,0,,
+39,California,1.0,27.0,Latino,1,-1,-1,0.0,0.0
+40,Connecticut,1.0,23.0,Black,1,-1,-1,0.0,0.0
+41,Texas,1.0,31.0,White,1,-1,1,,
+42,California,1.0,24.0,Latino,1,-1,1,0.0,-0.2
+43,Wisconsin,1.0,59.0,White,1,-1,1,0.9,0.4
+44,West Virginia,1.0,46.0,White,1,1,-1,0.0,0.0
+45,Illinois,1.0,17.0,Black,1,0,-1,0.0,-0.2
+46,Colorado,1.0,39.0,White,1,-1,-1,0.133333333333,-0.166666666667
+47,Texas,1.0,32.0,Asian,1,-1,-1,0.0,0.0
+48,Colorado,1.0,43.0,White,1,-1,1,0.0,0.0
+49,Indiana,1.0,31.0,White,-1,-1,-1,0.0,0.0
+50,New Mexico,1.0,30.0,Latino,1,-1,0,0.0,0.0
+51,Alabama,1.0,22.0,Black,-1,1,1,0.0,0.0
+52,Arkansas,1.0,29.0,White,1,-1,-1,0.0,-0.2
+53,California,1.0,21.0,White,1,-1,-1,0.0,-0.1
+54,Massachusetts,1.0,23.0,White,1,-1,-1,0.85,0.25
+55,Florida,1.0,50.0,Latino,1,1,-1,0.0,0.0
+56,Pennsylvania,1.0,52.0,White,0,0,1,0.0,-0.2
+57,Oklahoma,1.0,48.0,White,1,-1,-1,0.05,-0.075
+58,Georgia,1.0,34.0,White,1,1,-1,0.05,-0.1
+59,New York,1.0,29.0,Black,-1,-1,-1,0.0,0.0
+60,New York,1.0,30.0,Black,1,1,-1,0.0,0.0
+61,Texas,1.0,27.0,White,1,-1,-1,0.8,-0.7
+62,California,1.0,42.0,White,-1,-1,-1,0.0,0.0
+63,Maine,1.0,26.0,White,1,1,-1,0.966666666667,0.733333333333
+64,Texas,1.0,33.0,Latino,-1,1,-1,0.0,-0.2
+65,Ohio,1.0,47.0,Black,1,1,-1,0.0,0.0
+66,District of Columbia,1.0,19.0,Black,1,-1,-1,0.0,0.0
+67,Massachusetts,1.0,20.0,Black,1,1,-1,,
+68,California,1.0,47.0,Latino,-1,1,-1,0.0,0.0
+69,Pennsylvania,1.0,55.0,White,0,-1,1,0.454545454545,0.136363636364
+70,Tennessee,1.0,49.0,White,-1,-1,-1,0.0,-0.2
+71,Texas,1.0,32.0,White,1,-1,1,0.0,0.0
+72,Florida,1.0,69.0,White,1,-1,1,0.0,0.0
+73,California,1.0,33.0,White,-1,-1,-1,0.0,0.0
+74,California,1.0,22.0,Black,1,1,-1,0.0,0.0
+75,Michigan,1.0,22.0,Black,1,-1,-1,0.0,0.0
+76,Florida,1.0,24.0,Black,1,-1,1,0.025,0.0
+77,Massachusetts,1.0,30.0,Unknown,1,-1,-1,0.0,-0.2
+78,Delaware,1.0,28.0,Black,0,-1,-1,0.0,0.0
+79,Arkansas,1.0,26.0,Black,1,-1,-1,,
+80,Pennsylvania,1.0,30.0,Black,1,-1,-1,0.0,0.0
+81,New Jersey,1.0,32.0,Latino,-1,-1,-1,0.283333333333,-0.1
+82,Texas,1.0,32.0,Latino,1,-1,-1,0.0,0.0
+83,Florida,1.0,51.0,Black,1,1,0,0.0,0.0
+84,Minnesota,1.0,50.0,White,1,-1,1,0.0,-0.2
+85,Wisconsin,1.0,39.0,Black,1,1,1,0.1,0.3
+86,California,1.0,37.0,White,1,-1,-1,,
+87,Massachusetts,1.0,25.0,Black,-1,-1,-1,0.0,0.0
+88,California,1.0,39.0,Black,1,-1,-1,,
+89,Montana,1.0,62.0,White,-1,1,-1,0.0,-0.2
+90,Minnesota,1.0,24.0,Black,-1,-1,-1,0.0,0.0
+91,Florida,0.0,21.0,Latino,0,-1,-1,0.0,-0.1
+92,Ohio,1.0,24.0,Black,1,1,0,0.4,0.1
+93,Oklahoma,1.0,53.0,White,0,1,-1,0.0,0.0
+94,Missouri,1.0,28.0,White,-1,-1,-1,0.4,-0.2
+95,Florida,1.0,54.0,White,1,1,1,0.166666666667,0.0
+96,Illinois,1.0,41.0,White,1,1,-1,0.0,0.0
+97,Indiana,1.0,27.0,White,1,-1,-1,0.0,0.0
+98,California,1.0,32.0,Latino,1,-1,-1,0.05,0.0
+99,Louisiana,1.0,38.0,Black,0,1,-1,0.4,-0.2
+100,North Carolina,1.0,23.0,White,1,-1,-1,0.0,0.0
+101,California,1.0,80.0,White,1,-1,-1,0.0666666666667,0.0
+102,California,1.0,24.0,Latino,1,1,0,0.05,0.0
+103,Louisiana,1.0,20.0,Other,1,-1,-1,0.2,-0.1
+104,New York,1.0,61.0,White,0,-1,-1,0.0,-0.2
+105,Illinois,1.0,44.0,Latino,1,-1,-1,0.0,0.0
+106,Texas,1.0,36.0,Latino,0,-1,-1,0.0,0.0
+107,Ohio,1.0,30.0,White,1,-1,1,0.0,-0.2
+108,Texas,1.0,51.0,Black,-1,-1,1,0.05,-0.075
+109,Alabama,1.0,21.0,Unknown,1,-1,-1,0.0,0.0
+110,North Carolina,1.0,28.0,White,1,-1,-1,0.4,-0.2
+111,New Jersey,1.0,42.0,Black,1,-1,1,0.288888888889,-0.155555555556
+112,Michigan,1.0,26.0,Black,1,1,1,0.0,0.0
+113,Florida,1.0,30.0,White,0,-1,1,0.0,0.0
+114,New Jersey,1.0,38.0,Black,1,1,-1,0.0,-0.2
+115,California,1.0,26.0,Latino,-1,-1,-1,0.0,-0.1
+116,California,1.0,21.0,White,1,-1,-1,0.0,0.0
+117,Florida,1.0,51.0,Black,1,-1,-1,0.4,-0.2
+118,Connecticut,1.0,43.0,White,1,1,1,0.4,-0.2
+119,Virginia,1.0,21.0,White,-1,-1,-1,0.0,0.0
+120,Pennsylvania,1.0,35.0,White,1,-1,-1,0.0,-0.2
+121,California,1.0,44.0,Latino,0,1,-1,0.0,0.0
+122,New Mexico,1.0,61.0,Latino,1,-1,-1,0.0,-0.2
+123,Florida,1.0,27.0,Black,1,1,-1,0.0,0.0
+124,Florida,0.0,21.0,Latino,0,-1,-1,0.0,0.0
+125,Florida,1.0,18.0,Latino,0,-1,-1,0.0,0.0
+126,Minnesota,1.0,24.0,Latino,-1,0,-1,0.0,0.0
+127,Tennessee,1.0,26.0,White,1,-1,-1,0.602272727273,0.268181818182
+128,Florida,1.0,57.0,White,1,-1,1,0.375,-0.075
+129,Maryland,1.0,34.0,Black,-1,-1,-1,0.0,0.0
+130,Ohio,1.0,64.0,White,1,1,1,,
+131,California,1.0,40.0,White,1,1,0,0.0,-0.1
+132,North Carolina,1.0,24.0,White,1,-1,1,0.0,-0.2
+133,Maryland,1.0,49.0,White,1,1,1,0.0,-0.2
+134,Colorado,1.0,31.0,Latino,1,-1,-1,0.0,0.0
+135,North Carolina,1.0,17.0,Black,1,1,-1,0.0,0.0
+136,Florida,1.0,28.0,Black,1,1,1,0.0,0.0
+137,Pennsylvania,1.0,21.0,Black,1,1,-1,0.0,0.0
+138,Ohio,1.0,31.0,Black,1,-1,-1,0.2,-0.1
+139,Utah,1.0,39.0,White,1,1,-1,0.0,0.0
+140,Washington,1.0,24.0,White,1,1,-1,0.0,0.0
+141,Indiana,1.0,22.0,Black,-1,-1,1,0.45,0.35
+142,Kentucky,1.0,44.0,White,1,-1,-1,0.2,-0.1
+143,Massachusetts,1.0,47.0,White,1,-1,-1,0.0,0.0
+144,Washington,0.0,28.0,Unknown,0,-1,-1,0.0,-0.2
+145,Texas,1.0,24.0,White,-1,1,-1,0.0,-0.1
+146,Texas,1.0,34.0,Black,-1,-1,-1,0.0,-0.2
+147,Texas,1.0,72.0,White,1,-1,1,0.4,-0.2
+148,Georgia,1.0,30.0,White,1,-1,1,0.0,0.0
+149,Wisconsin,1.0,21.0,White,1,-1,1,0.4,-0.2
+150,New Mexico,1.0,54.0,Latino,1,-1,1,0.5,0.15
+151,South Dakota,1.0,24.0,Unknown,-1,-1,-1,0.2,-0.1
+152,Virginia,1.0,46.0,White,-1,-1,1,0.0,0.0
+153,Arizona,1.0,63.0,White,-1,-1,-1,0.0,0.0
+154,Arizona,1.0,43.0,White,1,-1,-1,0.0,-0.2
+155,Texas,1.0,49.0,White,1,1,-1,0.0,0.0
+156,California,1.0,23.0,Other,1,-1,-1,0.0,0.0
+157,Tennessee,1.0,29.0,White,1,-1,1,0.227272727273,-0.0318181818182
+158,Louisiana,1.0,58.0,White,1,-1,-1,0.0,0.0
+159,Texas,1.0,41.0,White,1,1,1,0.0,0.0
+160,New York,1.0,40.0,White,1,-1,-1,0.0,0.0
+161,Oregon,1.0,34.0,Black,1,-1,-1,0.0,0.0
+162,Illinois,1.0,95.0,White,1,-1,-1,0.0,-0.2
+163,Texas,1.0,16.0,Latino,1,-1,-1,0.0,0.0
+164,North Carolina,1.0,24.0,Black,0,-1,1,0.4,-0.2
+165,Colorado,1.0,25.0,White,1,-1,0,0.0,0.0
+166,Ohio,1.0,22.0,Black,1,-1,-1,0.0,0.0
+167,Pennsylvania,1.0,20.0,White,1,-1,-1,0.0,0.0
+168,Pennsylvania,1.0,26.0,Latino,1,-1,-1,0.0,-0.2
+169,Florida,1.0,26.0,Black,1,0,-1,0.9,0.4
+170,Texas,1.0,17.0,Latino,-1,-1,-1,0.0,0.0
+171,Tennessee,1.0,21.0,White,1,1,-1,0.454545454545,0.136363636364
+172,California,1.0,26.0,Latino,-1,-1,-1,0.0,0.0
+173,Texas,1.0,37.0,Latino,-1,1,1,,
+174,California,1.0,18.0,Latino,1,-1,-1,0.0,0.0
+175,New Jersey,1.0,22.0,Latino,1,1,-1,0.0,0.0
+176,California,1.0,35.0,Unknown,0,1,0,0.0,0.0
+177,New Jersey,1.0,36.0,White,1,-1,-1,0.0,0.0
+178,Arizona,1.0,24.0,Latino,-1,1,-1,,
+179,Florida,1.0,24.0,Black,1,0,1,0.466666666667,-0.3
+180,Missouri,1.0,33.0,White,1,-1,-1,0.4,-0.05
+181,Virginia,1.0,19.0,White,-1,-1,-1,0.1,-0.1
+182,California,1.0,34.0,Latino,-1,-1,-1,0.0,0.0
+183,California,1.0,30.0,Latino,1,-1,-1,0.5,-0.5
+184,Massachusetts,0.0,23.0,White,0,0,1,0.0,0.0
+185,California,1.0,31.0,Latino,1,-1,-1,0.0,-0.2
+186,California,1.0,24.0,Black,1,-1,-1,,
+187,Maryland,0.0,37.0,Black,-1,-1,-1,0.0,0.0
+188,Oklahoma,1.0,46.0,Black,1,-1,1,0.05,0.05
+189,Alabama,1.0,36.0,Black,-1,-1,-1,0.0,0.0
+190,Ohio,1.0,50.0,Black,1,1,-1,0.0,0.0
+191,Tennessee,1.0,47.0,White,-1,1,1,0.0,0.0
+192,Nevada,1.0,27.0,White,1,-1,-1,0.225,0.0
+193,Texas,0.0,28.0,Black,0,0,0,0.125,0.0
+194,Texas,1.0,46.0,White,1,1,1,0.0,0.0
+195,Kansas,1.0,35.0,White,1,-1,-1,0.0,0.0
+196,California,1.0,24.0,Unknown,1,-1,-1,0.0,0.0
+197,Ohio,0.0,21.0,Black,1,-1,-1,0.0,0.0
+198,Ohio,0.0,35.0,White,-1,-1,-1,0.0,0.0
+199,New York,0.0,37.0,Unknown,-1,1,-1,0.0,0.0
+200,Pennsylvania,1.0,22.0,Black,1,-1,-1,0.0,-0.2
+201,New York,0.0,46.0,Black,0,0,0,0.6,-0.4
+202,Arizona,1.0,30.0,White,1,1,-1,0.0,0.0
+203,Arizona,1.0,44.0,White,1,-1,1,0.0,0.0
+204,Kentucky,1.0,54.0,White,-1,-1,-1,0.1,0.0
+205,North Carolina,1.0,20.0,Black,1,-1,-1,,
+206,Florida,1.0,46.0,White,1,1,1,0.0,0.0
+207,California,1.0,47.0,Black,1,1,1,0.0,0.0
+208,North Carolina,1.0,59.0,White,1,-1,-1,0.8,-0.7
+209,New York,1.0,25.0,Black,1,-1,1,0.454545454545,0.136363636364
+210,Washington,1.0,30.0,Black,-1,1,-1,0.1,0.0
+211,California,1.0,21.0,Black,0,-1,-1,,
+212,Colorado,1.0,60.0,White,-1,-1,-1,,
+213,Arizona,1.0,31.0,Latino,1,1,-1,0.0,-0.1
+214,Florida,1.0,22.0,White,1,1,-1,0.0,0.0
+215,Oklahoma,1.0,18.0,Native American,1,-1,1,0.0,-0.2
+216,California,1.0,53.0,White,0,1,-1,0.0,0.0
+217,Maryland,0.0,26.0,White,0,-1,0,0.0,0.0
+218,Pennsylvania,0.0,68.0,White,1,-1,-1,0.2,-0.1
+219,Arizona,1.0,40.0,Latino,1,-1,0,0.2,-0.1
+220,Illinois,1.0,28.0,White,-1,-1,-1,0.2,-0.1
+221,Florida,1.0,43.0,White,1,-1,1,0.0,-0.2
+222,Florida,1.0,38.0,Black,0,1,1,,
+223,Illinois,1.0,28.0,Black,-1,-1,-1,0.0,0.0
+224,Virginia,1.0,41.0,Black,1,-1,1,0.0,0.0
+225,Florida,1.0,21.0,Black,-1,-1,-1,0.0,0.0
+226,Washington,1.0,31.0,Black,1,1,-1,0.4,-0.2
+227,Arizona,1.0,20.0,Unknown,1,-1,-1,0.0,0.0
+228,Hawaii,1.0,21.0,Unknown,1,-1,1,0.0,0.0
+229,Arizona,1.0,32.0,White,1,-1,-1,0.4,-0.2
+230,Oregon,1.0,52.0,White,-1,1,1,0.0,0.0
+231,Connecticut,1.0,28.0,White,1,-1,-1,,
+232,North Carolina,1.0,43.0,Latino,1,1,1,0.0,-0.1
+233,California,1.0,25.0,Unknown,-1,-1,-1,0.0,0.0
+234,Virginia,0.0,38.0,Asian,1,-1,-1,0.0,0.0
+235,Texas,1.0,24.0,Black,0,1,-1,0.0,0.0
+236,Arizona,1.0,44.0,Latino,-1,1,-1,0.0,0.0
+237,Pennsylvania,1.0,49.0,Black,0,0,1,0.4,-0.1
+238,Texas,1.0,26.0,Black,1,-1,1,0.2,0.0
+239,Iowa,1.0,39.0,White,1,-1,-1,0.0,0.0
+240,North Carolina,1.0,54.0,White,1,-1,-1,0.0,0.0
+241,Texas,1.0,44.0,Latino,1,1,1,0.45,0.3
+242,Illinois,1.0,15.0,Black,1,-1,-1,0.0,-0.2
+243,California,1.0,65.0,White,0,0,0,0.0,0.0
+244,Minnesota,1.0,34.0,Unknown,1,-1,1,,
+245,Connecticut,0.0,34.0,Black,0,-1,0,0.0,-0.1
+246,North Carolina,0.0,33.0,White,1,1,1,0.0,0.0
+247,Alabama,1.0,31.0,White,-1,-1,1,0.0,-0.2
+248,Arkansas,1.0,107.0,Black,1,-1,-1,0.0,0.0
+249,Illinois,1.0,23.0,Black,-1,-1,1,0.45,0.2
+250,Wyoming,1.0,43.0,Other,1,1,1,0.45,-0.1
+251,District of Columbia,1.0,34.0,Black,1,-1,-1,0.0,-0.2
+252,Tennessee,0.0,64.0,White,1,-1,1,0.0,-0.2
+253,Kansas,1.0,22.0,White,1,-1,-1,0.0,0.0
+254,Texas,1.0,26.0,Latino,0,1,-1,0.0,0.0
+255,Ohio,1.0,38.0,Black,-1,1,-1,0.1,0.2
+256,Oklahoma,1.0,28.0,White,0,-1,0,0.0,0.0
+257,California,1.0,35.0,Black,1,-1,-1,0.0,0.0
+258,Florida,1.0,43.0,Latino,1,0,-1,0.0,0.0
+259,Texas,1.0,16.0,White,1,-1,-1,0.0,0.0
+260,California,1.0,32.0,Black,1,-1,-1,0.0,0.0
+261,Alabama,1.0,37.0,Black,1,-1,-1,0.0,0.0
+262,California,1.0,41.0,Black,-1,-1,-1,0.0,0.0
+263,California,1.0,27.0,Black,-1,-1,-1,0.0,0.0
+264,Florida,1.0,33.0,Black,1,-1,1,0.0,-0.2
+265,Ohio,1.0,29.0,Black,-1,-1,-1,0.0,-0.1
+266,West Virginia,1.0,66.0,White,1,-1,-1,0.0,0.0
+267,Florida,1.0,40.0,Black,-1,1,-1,0.0,-0.2
+268,Indiana,1.0,49.0,White,-1,-1,-1,0.4,-0.2
+269,Colorado,1.0,30.0,White,-1,-1,-1,0.0,0.0
+270,Illinois,1.0,28.0,Black,-1,0,0,0.0,0.0
+271,Wisconsin,1.0,23.0,White,1,-1,1,0.2,0.2
+272,Texas,1.0,48.0,White,1,1,-1,0.0,-0.2
+273,North Carolina,1.0,34.0,Black,1,-1,-1,0.2,-0.1
+274,California,1.0,34.0,Latino,0,-1,-1,0.0,0.0
+275,Maine,1.0,78.0,White,1,-1,-1,,
+276,Pennsylvania,1.0,27.0,White,1,1,1,0.0,0.0
+277,Florida,1.0,73.0,White,1,-1,-1,0.8,-0.7
+278,Florida,1.0,62.0,White,1,1,-1,0.1,0.0
+279,Georgia,1.0,38.0,White,-1,1,1,0.0,0.0
+280,Tennessee,1.0,58.0,White,-1,1,1,0.0,-0.1
+281,Ohio,1.0,32.0,White,1,-1,-1,0.0,0.0
+282,North Carolina,1.0,18.0,Black,1,0,1,0.54,0.16
+283,Florida,1.0,23.0,White,1,-1,1,0.0,0.0
+284,New York,1.0,54.0,Black,-1,-1,-1,0.0,0.0
+285,California,1.0,39.0,Black,0,-1,-1,0.0,0.0
+286,Texas,0.0,50.0,Latino,1,1,1,0.05,-0.075
+287,Massachusetts,1.0,38.0,Latino,1,-1,-1,0.1,0.0
+288,Illinois,1.0,62.0,White,-1,-1,1,0.1,-0.1
+289,Minnesota,0.0,101.0,White,-1,-1,1,0.0,0.0
+290,Illinois,1.0,44.0,Black,1,-1,1,0.133333333333,-0.0666666666667
+291,Texas,1.0,19.0,Latino,0,-1,1,0.0,-0.2
+292,California,1.0,29.0,White,1,-1,-1,0.075,-0.05
+293,Indiana,1.0,22.0,Unknown,1,-1,-1,0.0,0.0
+294,Kansas,1.0,25.0,Black,1,-1,1,0.0,0.0
+295,California,1.0,25.0,Unknown,0,-1,-1,0.6,-0.1
+296,California,1.0,32.0,Asian,1,-1,-1,0.0,0.0
+297,Texas,1.0,22.0,Latino,1,-1,1,0.0,-0.2
+298,New York,1.0,40.0,White,1,-1,-1,0.416666666667,0.25
+299,Pennsylvania,1.0,46.0,White,1,1,-1,0.0,0.0
+300,Colorado,1.0,48.0,White,1,-1,-1,0.0,0.0
+301,Georgia,1.0,34.0,Black,1,-1,-1,0.0,0.0
+302,Maryland,1.0,19.0,White,0,-1,1,0.0,0.0
+303,Connecticut,1.0,40.0,White,-1,-1,-1,0.225,-0.1375
+304,New York,1.0,14.0,Black,1,1,-1,0.427272727273,0.0431818181818
+305,Ohio,1.0,28.0,White,1,1,1,0.4,-0.2
+306,South Carolina,0.0,49.0,Black,0,1,1,0.0,0.0
+307,Arizona,1.0,19.0,Unknown,1,-1,1,0.2,-0.125
+308,Pennsylvania,1.0,56.0,White,-1,-1,-1,,
+309,Pennsylvania,1.0,50.0,White,1,-1,1,0.0,0.0
+310,Utah,1.0,36.0,Black,1,-1,-1,0.0,-0.1
+311,Florida,1.0,21.0,White,1,1,1,0.683333333333,0.266666666667
+312,North Carolina,1.0,40.0,Black,-1,1,0,0.5,-0.45
+313,California,1.0,27.0,White,1,-1,-1,0.0,0.0
+314,Oklahoma,1.0,30.0,Latino,1,-1,-1,0.0,0.0
+315,Texas,1.0,49.0,Unknown,1,-1,-1,0.4,-0.2
+316,Hawaii,1.0,35.0,White,-1,0,1,0.0,0.0
+317,New York,1.0,38.0,White,0,1,0,0.0,0.0
+318,California,1.0,33.0,White,0,-1,-1,0.288888888889,-0.155555555556
+319,California,1.0,32.0,White,-1,1,1,0.0,0.0
+320,Iowa,1.0,38.0,White,1,1,1,0.0,0.0
+321,Pennsylvania,1.0,46.0,White,1,1,1,0.0,0.0
+322,Massachusetts,0.0,64.0,White,0,0,-1,0.3,0.1
+323,Ohio,1.0,24.0,Black,1,1,1,0.458333333333,-0.216666666667
+324,Minnesota,1.0,30.0,White,1,-1,-1,0.25,-0.1
+325,Oklahoma,1.0,33.0,White,0,-1,1,0.0,0.0
+326,Minnesota,1.0,22.0,Black,1,-1,-1,0.0,0.0
+327,California,1.0,50.0,Black,1,-1,-1,0.0,-0.2
+328,California,1.0,50.0,Black,1,1,-1,0.0,-0.2
+329,Pennsylvania,1.0,21.0,Black,1,1,-1,0.0,0.0
+330,Ohio,1.0,43.0,Black,1,1,1,0.4,0.0
+331,Texas,1.0,26.0,White,1,-1,-1,0.0,0.0
+332,Montana,1.0,49.0,White,-1,-1,1,0.0,0.0
+333,Iowa,1.0,40.0,Latino,-1,-1,-1,0.0,-0.2
+334,West Virginia,1.0,55.0,White,1,-1,-1,0.0,-0.2
+335,Florida,1.0,48.0,White,0,-1,-1,0.0,-0.05
+336,Florida,1.0,58.0,White,1,1,1,0.0,-0.1
+337,Louisiana,1.0,25.0,White,-1,-1,-1,0.4,-0.2
+338,North Carolina,1.0,22.0,Black,1,-1,1,0.1,-0.05
+339,Indiana,1.0,44.0,White,-1,1,-1,0.0,0.0
+340,Iowa,1.0,19.0,White,0,-1,1,0.0,0.0
+341,California,1.0,19.0,Black,1,-1,-1,0.0,0.0
+342,Oregon,1.0,31.0,White,-1,-1,1,0.0,0.0
+343,Missouri,1.0,16.0,White,1,-1,1,0.4,0.1
+344,Illinois,1.0,16.0,Black,1,-1,-1,0.325,0.05
+345,Pennsylvania,1.0,21.0,Unknown,1,1,1,0.0,0.0
+346,Pennsylvania,1.0,23.0,Unknown,1,-1,-1,0.0,0.0
+347,Connecticut,1.0,52.0,Unknown,-1,-1,-1,0.0,0.0
+348,New York,1.0,53.0,Unknown,-1,1,0,0.0,0.0
+349,California,1.0,53.0,Unknown,1,-1,1,0.0,-0.2
+350,California,1.0,40.0,Latino,1,-1,-1,0.0,0.0
+351,Michigan,1.0,17.0,Unknown,1,-1,-1,0.525,-0.0375
+352,Texas,1.0,28.0,Unknown,1,-1,1,0.2,-0.05
+353,California,1.0,43.0,Unknown,1,-1,-1,0.4,-0.2
+354,New York,1.0,26.0,Unknown,1,-1,-1,0.0,-0.2
+355,California,1.0,47.0,White,1,-1,-1,0.4,-0.2
+356,Texas,1.0,44.0,Latino,1,-1,1,0.0,0.0
+357,New Mexico,1.0,66.0,Black,1,-1,-1,0.2,-0.05
+358,Vermont,1.0,49.0,White,1,-1,1,0.0,0.0
+359,Massachusetts,1.0,23.0,Black,1,-1,1,0.0,0.0
+360,New Hampshire,0.0,45.0,White,-1,-1,-1,0.0,0.0
+361,Massachusetts,1.0,41.0,White,-1,-1,-1,,
+362,California,1.0,25.0,Latino,-1,-1,-1,0.0,0.0
+363,Washington,1.0,34.0,White,-1,-1,-1,0.0,0.0
+364,Florida,1.0,54.0,White,0,-1,-1,0.1,-0.0333333333333
+365,Maryland,1.0,31.0,Black,1,1,-1,0.0,-0.1
+366,New York,1.0,51.0,White,0,0,1,0.0,-0.0666666666667
+367,California,1.0,37.0,White,1,-1,-1,0.0,-0.05
+368,Florida,1.0,17.0,White,-1,1,1,0.0,0.0
+369,Pennsylvania,1.0,43.0,Black,-1,-1,-1,0.0,0.0
+370,Ohio,1.0,32.0,Black,0,1,-1,0.0,-0.1
+371,Texas,1.0,44.0,White,1,1,1,0.483333333333,0.266666666667
+372,Ohio,1.0,24.0,White,0,1,0,0.0,0.0
+373,Minnesota,1.0,26.0,White,-1,-1,1,0.0,0.0
+374,Colorado,1.0,33.0,White,0,1,-1,0.0,-0.2
+375,Utah,1.0,27.0,Latino,1,1,-1,0.0,-0.2
+376,California,1.0,47.0,White,1,-1,0,0.0,0.0
+377,Michigan,1.0,25.0,Black,-1,-1,-1,1.0,0.1
+378,Wisconsin,1.0,19.0,Black,1,-1,1,0.233333333333,0.1
+379,North Carolina,0.0,21.0,White,1,-1,1,0.0,0.0
+380,California,1.0,27.0,White,0,-1,-1,0.0,0.0
+381,California,1.0,29.0,White,1,-1,-1,0.0,0.0
+382,California,1.0,43.0,Unknown,1,-1,1,0.4,-0.2
+383,Louisiana,1.0,31.0,Black,-1,-1,-1,0.0,0.0
+384,Utah,0.0,32.0,White,0,-1,-1,0.4,0.1
+385,Utah,0.0,5.0,White,1,-1,-1,,
+386,Texas,1.0,26.0,Black,-1,-1,1,0.0,0.0
+387,New York,1.0,50.0,Black,-1,-1,0,0.0,-0.2
+388,North Carolina,1.0,18.0,Unknown,1,-1,1,0.166666666667,-0.0666666666667
+389,Louisiana,1.0,34.0,Black,-1,1,1,0.0,0.0
+390,Florida,1.0,30.0,Black,1,-1,1,0.2,-0.1
+391,Colorado,1.0,34.0,Unknown,-1,1,-1,0.433333333333,-0.266666666667
+392,Kentucky,1.0,57.0,White,1,-1,-1,0.0,0.0
+393,Florida,1.0,51.0,White,1,-1,-1,0.0,0.0
+394,Texas,1.0,23.0,Black,1,-1,1,0.05,-0.025
+395,Delaware,1.0,48.0,White,0,1,-1,,
+396,Texas,0.0,42.0,White,0,0,-1,0.0,-0.2
+397,New Jersey,1.0,25.0,White,-1,1,-1,0.8,0.4
+398,Alabama,1.0,31.0,Black,-1,-1,1,0.0,0.0
+399,Texas,0.0,45.0,Black,1,-1,1,0.4,-0.2
+400,Georgia,1.0,17.0,White,-1,-1,-1,0.0,0.0
+401,Missouri,1.0,27.0,Black,1,1,1,0.0,0.0
+402,California,1.0,23.0,Native American,1,-1,-1,0.1,-0.15
+403,Florida,1.0,21.0,Black,-1,-1,-1,0.0,0.0
+404,South Carolina,1.0,68.0,Black,0,-1,1,0.0,-0.2
+405,Texas,1.0,49.0,White,1,-1,1,0.277272727273,0.0181818181818
+406,Arizona,1.0,43.0,White,1,1,1,0.0,0.0
+407,Florida,1.0,28.0,Black,0,-1,-1,0.1,0.0
+408,Hawaii,1.0,39.0,Unknown,0,1,0,0.125,0.0
+409,California,1.0,38.0,Latino,1,-1,-1,0.4,-0.2
+410,Georgia,1.0,20.0,Black,-1,0,-1,,
+411,Washington,1.0,30.0,White,1,-1,-1,0.0,0.0
+412,Texas,1.0,42.0,White,1,-1,-1,0.0,-0.2
+413,New Mexico,1.0,30.0,Native American,1,1,-1,0.0,0.0
+414,Ohio,1.0,65.0,White,1,1,-1,0.0,0.0
+415,Oklahoma,1.0,73.0,White,-1,-1,-1,0.1,0.0
+416,Rhode Island,1.0,18.0,Black,-1,0,0,0.0,0.0
+417,California,1.0,74.0,White,1,-1,-1,0.0,0.0
+418,Colorado,1.0,49.0,White,-1,-1,-1,0.0,-0.2
+419,Texas,1.0,63.0,White,-1,1,-1,0.0,0.0
+420,Maryland,1.0,32.0,Black,-1,-1,-1,0.0,0.0
+421,New Mexico,1.0,38.0,White,1,-1,-1,0.0,0.0
+422,Ohio,1.0,28.0,White,-1,-1,1,0.0,0.0
+423,Florida,1.0,51.0,Black,1,-1,-1,0.0,0.0
+424,Kentucky,1.0,53.0,White,1,-1,-1,0.0,0.0
+425,New Hampshire,1.0,34.0,White,1,-1,-1,0.0,0.0
+426,Pennsylvania,0.0,34.0,White,0,-1,-1,0.0,-0.2
+427,Alaska,1.0,52.0,White,0,0,0,0.0,0.0
+428,Alabama,1.0,21.0,Black,0,-1,1,0.0,-0.2
+429,Colorado,1.0,23.0,Latino,1,-1,1,0.333333333333,0.25
+430,Indiana,1.0,27.0,White,1,-1,-1,0.535714285714,0.285714285714
+431,Arizona,1.0,28.0,White,1,1,-1,0.427272727273,-0.0318181818182
+432,California,0.0,22.0,Black,0,-1,-1,,
+433,Wisconsin,1.0,31.0,Black,0,-1,-1,0.0,0.0
+434,Kentucky,0.0,19.0,White,-1,-1,-1,0.0,0.0
+435,Illinois,1.0,86.0,Black,1,-1,0,0.4,-0.2
+436,California,1.0,29.0,Black,1,1,-1,0.35,0.05
+437,Mississippi,0.0,27.0,White,-1,-1,-1,0.4,-0.2
+438,Arizona,1.0,26.0,Latino,1,1,-1,0.2,-0.1
+439,Texas,1.0,26.0,White,1,1,1,0.4,-0.2
+440,Pennsylvania,1.0,29.0,Black,1,-1,-1,0.0,-0.2
+441,Florida,1.0,55.0,Black,-1,1,1,0.2,-0.1
+442,Texas,1.0,20.0,Unknown,0,-1,-1,0.0,-0.2
+443,New Mexico,0.0,44.0,Latino,0,-1,1,0.0,0.0
+444,Montana,1.0,38.0,White,0,1,1,0.0,0.0
+445,Maryland,1.0,34.0,Black,-1,1,-1,0.0,0.0
+446,Kansas,1.0,30.0,White,1,1,1,0.4,0.0
+447,Indiana,1.0,23.0,White,0,-1,0,0.0,0.0
+448,Texas,1.0,27.0,Black,0,-1,-1,0.8,-0.7
+449,Texas,1.0,26.0,White,1,-1,-1,0.0,-0.1
+450,Washington,1.0,26.0,White,1,-1,-1,0.4,-0.2
+451,Florida,1.0,28.0,White,1,-1,-1,0.0,-0.2
+452,Washington,1.0,37.0,White,1,-1,-1,0.0,0.0
+453,North Carolina,1.0,33.0,Black,-1,-1,-1,0.0,0.0
+454,Virginia,1.0,29.0,White,1,1,1,0.0,0.0
+455,Nevada,1.0,31.0,White,1,-1,-1,0.0,0.0
+456,Indiana,1.0,36.0,Black,1,1,-1,0.0,0.0
+457,Nebraska,1.0,64.0,White,1,-1,-1,0.0,0.0
+458,California,1.0,22.0,White,1,-1,-1,0.0,0.0
+459,Louisiana,1.0,17.0,Black,1,1,0,0.0,0.0
+460,Florida,1.0,18.0,Black,-1,-1,1,0.416666666667,0.15
+461,Ohio,1.0,42.0,White,-1,-1,-1,0.0,0.0
+462,Florida,1.0,29.0,White,1,-1,-1,0.4,-0.2
+463,Ohio,1.0,45.0,Black,1,1,1,0.4,-0.2
+464,California,1.0,23.0,Latino,1,-1,-1,0.427272727273,0.0431818181818
+465,North Carolina,1.0,26.0,Black,-1,1,1,0.0,0.0
+466,California,1.0,49.0,White,1,1,1,0.0,0.0
+467,Virginia,1.0,17.0,Latino,1,-1,1,0.0,0.0
+468,Missouri,1.0,59.0,White,-1,-1,-1,0.0,0.0
+469,New York,1.0,27.0,Black,1,0,-1,0.0,0.0
+470,New Mexico,1.0,37.0,Latino,1,1,1,0.0,0.0
+471,Georgia,1.0,34.0,White,-1,-1,-1,0.0,0.0
+472,Arizona,1.0,28.0,White,1,-1,-1,0.0,-0.2
+473,Florida,1.0,37.0,Black,0,1,-1,0.0,0.0
+474,Colorado,1.0,31.0,Latino,1,-1,-1,0.0,0.0
+475,Arkansas,1.0,21.0,Black,1,-1,1,0.4,0.1
+476,Oklahoma,1.0,22.0,White,1,-1,-1,0.0,-0.2
+477,Florida,1.0,20.0,Black,1,-1,1,0.454545454545,0.136363636364
+478,California,1.0,27.0,Latino,1,1,1,0.35,0.05
+479,Mississippi,1.0,25.0,White,1,-1,1,0.0,-0.2
+480,California,1.0,24.0,White,-1,-1,1,0.0,-0.075
+481,Kansas,1.0,24.0,Black,1,-1,-1,0.0,0.0
+482,Maryland,1.0,19.0,Black,0,-1,-1,0.4,-0.2
+483,California,0.0,57.0,White,1,-1,-1,0.0,0.0
+484,Florida,1.0,43.0,White,1,1,-1,0.4,-0.3
+485,Texas,1.0,22.0,White,1,-1,1,0.0,0.0
+486,Florida,1.0,41.0,White,1,-1,1,0.0,0.0
+487,California,1.0,32.0,Black,0,-1,-1,0.266666666667,-0.0333333333333
+488,Missouri,0.0,50.0,White,1,-1,-1,0.4,-0.2
+489,Pennsylvania,0.0,69.0,Unknown,0,0,-1,0.4,-0.2
+490,Alabama,1.0,39.0,White,1,1,-1,0.4,-0.2
+491,California,1.0,58.0,Latino,1,-1,-1,0.0,-0.2
+492,Oregon,0.0,25.0,White,1,1,1,0.0,0.0
+493,Ohio,1.0,34.0,Black,1,1,0,0.0,-0.2
+494,California,1.0,26.0,Latino,1,-1,1,0.441666666667,-0.2
+495,New Mexico,1.0,48.0,Latino,1,-1,1,0.0,-0.2
+496,Michigan,1.0,31.0,White,1,1,1,,
+497,Colorado,1.0,41.0,Latino,1,1,-1,0.0,0.0
+498,Texas,1.0,30.0,Latino,1,1,-1,0.0,0.0
+499,Texas,0.0,93.0,Black,1,-1,1,0.0,-0.1
+500,Florida,1.0,28.0,White,1,-1,-1,0.0,0.0
+501,California,1.0,18.0,Latino,1,-1,-1,0.0,0.0
+502,Louisiana,1.0,44.0,Black,0,-1,1,0.0,0.0
+503,Wisconsin,1.0,31.0,Black,1,-1,-1,0.0,-0.2
+504,Texas,1.0,40.0,White,-1,-1,-1,0.0,0.0
+505,Florida,1.0,29.0,White,1,-1,-1,0.0,-0.1
+506,Maryland,1.0,37.0,Latino,1,-1,1,0.0,-0.2
+507,Georgia,1.0,25.0,Unknown,-1,-1,-1,0.0,0.0
+508,Florida,1.0,24.0,White,-1,-1,-1,0.0,0.0
+509,Texas,1.0,35.0,Black,1,-1,-1,0.4,-0.2
+510,Virginia,1.0,56.0,White,1,-1,-1,0.0,-0.2
+511,Washington,1.0,32.0,White,1,-1,-1,0.4,-0.2
+512,New York,1.0,27.0,Latino,1,-1,-1,0.0,-0.2
+513,California,1.0,40.0,Black,1,-1,-1,0.0,0.0
+514,California,1.0,29.0,White,1,-1,-1,0.4,-0.3
+515,Delaware,1.0,29.0,Black,1,1,1,,
+516,New Jersey,1.0,20.0,Black,-1,-1,-1,0.2,-0.1
+517,California,1.0,24.0,Black,1,1,-1,0.0,0.0
+518,Texas,1.0,80.0,White,1,-1,1,0.4,-0.2
+519,Nevada,0.0,49.0,White,1,-1,-1,0.0,0.0
+520,Maryland,1.0,49.0,Black,-1,-1,-1,0.0,0.0
+521,North Dakota,1.0,31.0,White,-1,-1,-1,0.0,0.0
+522,Texas,1.0,45.0,Black,-1,-1,-1,0.0,-0.2
+523,California,1.0,22.0,Latino,1,-1,-1,0.1,0.0
+524,South Carolina,1.0,19.0,Black,0,0,1,0.0,0.0
+525,California,1.0,22.0,Unknown,1,-1,-1,0.25,0.0681818181818
+526,Texas,1.0,30.0,Black,1,-1,1,0.05,0.0
+527,California,1.0,23.0,Unknown,1,-1,1,0.0,0.0
+528,Washington,1.0,36.0,White,1,1,-1,0.0,-0.2
+529,Florida,1.0,17.0,Unknown,-1,-1,-1,0.1,0.0
+530,North Carolina,1.0,21.0,Black,1,1,1,0.05,0.0
+531,Washington,1.0,33.0,White,1,-1,-1,0.1,0.0
+532,Oklahoma,1.0,35.0,White,1,-1,1,0.0,0.0
+533,Georgia,1.0,24.0,Black,1,-1,-1,0.4,-0.2
+534,Florida,1.0,34.0,White,1,1,1,,
+535,Nevada,1.0,40.0,White,1,-1,-1,0.0,-0.2
+536,Colorado,1.0,21.0,Latino,1,1,-1,1.0,-0.5
+537,Mississippi,1.0,61.0,Black,1,-1,-1,0.0,0.0
+538,New York,1.0,30.0,White,-1,-1,-1,0.4,-0.2
+539,Oregon,1.0,73.0,White,1,-1,-1,0.0,0.0
+540,Oregon,1.0,38.0,White,-1,0,1,0.284848484848,-0.0212121212121
+541,Nevada,1.0,37.0,White,1,-1,-1,0.0,0.0
+542,Nevada,1.0,31.0,White,1,1,-1,0.4,-0.2
+543,Alabama,1.0,48.0,Black,1,0,-1,0.0,-0.2
+544,New Mexico,1.0,24.0,White,-1,1,-1,0.0,0.0
+545,New Mexico,1.0,16.0,Latino,1,-1,-1,0.0,0.0
+546,Arizona,1.0,34.0,White,0,-1,-1,0.0,-0.05
+547,Pennsylvania,1.0,25.0,White,1,-1,-1,0.0,-0.1
+548,Virginia,1.0,35.0,Black,1,0,-1,0.0,0.0
+549,Tennessee,1.0,31.0,Black,1,1,1,0.133333333333,-0.05
+550,Nebraska,1.0,48.0,White,1,1,1,0.0,0.0
+551,Georgia,1.0,48.0,White,1,1,-1,0.0,0.0
+552,California,1.0,53.0,White,1,1,-1,0.1,-0.1
+553,Utah,1.0,35.0,White,1,1,1,0.0,0.0
+554,California,0.0,18.0,Latino,1,-1,-1,0.2,0.1
+555,Arizona,1.0,31.0,Latino,0,1,-1,,
+556,Pennsylvania,1.0,34.0,Black,1,-1,-1,,
+557,South Carolina,1.0,22.0,White,0,-1,1,0.0,0.0
+558,North Carolina,1.0,21.0,White,1,-1,1,0.4,-0.2
+559,California,1.0,47.0,Black,1,1,1,0.0,0.0
+560,Texas,1.0,50.0,White,1,-1,1,0.0,0.0
+561,Wyoming,1.0,26.0,White,1,-1,-1,0.0,0.0
+562,North Carolina,1.0,41.0,White,1,1,-1,0.2,-0.1
+563,Illinois,1.0,25.0,White,1,-1,-1,0.05,-0.1
+564,Nevada,1.0,27.0,White,1,-1,-1,0.0,0.0
+565,Washington,1.0,34.0,White,1,-1,1,0.0,-0.1
+566,South Carolina,1.0,27.0,Black,1,-1,1,0.227272727273,-0.0318181818182
+567,New York,1.0,32.0,White,1,1,-1,0.0,0.0
+568,Tennessee,1.0,45.0,White,0,1,1,0.0,0.0
